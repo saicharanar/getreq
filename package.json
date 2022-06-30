@@ -1,0 +1,19 @@
+{
+  "name": "getreq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saicharanar/getreq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saicharanar/getreq/issues"
+  },
+  "homepage": "https://github.com/saicharanar/getreq#readme"
+}
